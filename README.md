@@ -1,41 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio
 
-> This project is done as part of the fist 3 weeks activities in Microverse. It is made in order to help the student masters:
+> Portfolio: setup and mobile version skeleton
 
-- How to parse a Figma design to create a UI.
-- Use Flexbox, Grid and Float to place elements in a page.
-- Build a personal portfolio site.
-- Use images, backgrounds and animations to enhance the look of the website.
-- How to deploy a website on Github Pages.
-- Add accebility feature
-- Create form
-- validate form with Javascript
-
-## Mobile version
-
-![screenshot](images/mobile.png)
-
-
-
-## Desktop version
-
-![screenshot](images/screenshot-desktop.png)
-Additional description about the project and its features.
 
 ## Built With
 
--HTML
--CSS
--Microverse html/css linter and markdown template
--Google Chrome Mobile simulator extension - [responsive testing tool](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk/related)
-- [Best Buttons Generator](https://www.bestcssbuttongenerator.com/)
-- [Borderradius.com](https://border-radius.com/)
+- GitHub
+- Linters
+- Figma
+- HTML and CSS
+
+## Live Demo (if available)
 
 ## Live Demo
 
-[Live Demo Link](https://javitolez.github.io/Portfolio1/)
+[Live Demo Link](https://javitolez.github.io/Portfolio-1/)
 
 ## Getting Started
 
@@ -56,18 +37,29 @@ Clone using the appropriate link from github
 
 ## Authors
 
-👤 **Author1**
+## Author
 
-- GitHub: [@david-lafontant](https://github.com/javitolez)
+👤 **Javier Lezama**
+
+- GitHub: [@githubhandle](https://github.com/javitolez)
+- Twitter: [@twitterhandle](https://twitter.com/javitolez)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/javier-lezama-806b5579/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
