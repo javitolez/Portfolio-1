@@ -14,10 +14,6 @@
 
 ## Live Demo (if available)
 
-## Live Demo
-
-[Live Demo Link](https://javitolez.github.io/Portfolio-1/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -34,8 +30,6 @@ Set up git if needed
 ### Clone
 
 Clone using the appropriate link from github
-
-## Authors
 
 ## Author
 
