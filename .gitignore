@@ -1,0 +1,5 @@
+# .gitignore
+node_modules/
+.lighthouseci/
+hint-report/
+.eslintrc.js
